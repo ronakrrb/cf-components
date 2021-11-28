@@ -1,6 +1,6 @@
 {
   "name": "@ronakrrb/cf-components",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "description": "Components repository",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,15 @@
   ],
   "author": "@ronakrrb",
   "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.14",
+    "babel-loader": "^8.2.2"
+  },
   "bugs": {
     "url": "https://github.com/ronakrrb/cf-components/issues"
   },

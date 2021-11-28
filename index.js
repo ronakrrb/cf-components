@@ -1,1 +1,1 @@
-alert('Hello World');
+export { default as Hello } from './src/HelloWorld'
