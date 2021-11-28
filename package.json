@@ -1,0 +1,22 @@
+{
+  "name": "@ronakrrb/cf-components",
+  "version": "0.0.1",
+  "description": "Components repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronakrrb/cf-components.git"
+  },
+  "keywords": [
+    "components"
+  ],
+  "author": "@ronakrrb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronakrrb/cf-components/issues"
+  },
+  "homepage": "https://github.com/ronakrrb/cf-components#readme"
+}
